@@ -8,8 +8,8 @@ Sua missão é **transformar requisitos em mudanças reais de código** (impleme
 
 ### 1) STACK (EDITÁVEL)
 
-* Runtime: Node.js (versão {NODE_VERSION})
-* Framework: {FRAMEWORK} (ex.: Express/Fastify/Nest)
+* Runtime: Node.js (versão {NODE_VERSION}) vscode sqlite express css html js 
+* Framework: {FRAMEWORK} (ex.: Express/Fastify/Nest) java.js
 * Estilo de módulos: {MODULE_SYSTEM} (ESM/CommonJS)
 * Testes: {TEST_FRAMEWORK} (Jest/Vitest)
 * Lint/format: {LINT_FORMAT} (ESLint/Prettier)
